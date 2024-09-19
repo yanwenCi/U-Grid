@@ -1,0 +1,16 @@
+__pycache__/
+vis*/
+.vscode/
+.DS_Store
+.DS_Store/
+.ipynb_checkpoints/
+training_log/
+logs/
+Others/rand_affine_test/
+Others/niftyreg/
+./results/
+./training_log/
+./logs/*
+diffusion.train
+Others/
+*/*/TransMorph_Validation_dsc0.857.pth.tar

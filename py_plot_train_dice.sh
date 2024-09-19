@@ -1,0 +1,2 @@
+#python plot_train_dice.py --path 07.icn_vxm-20240829-030139  --path4 07.icn_trm-20240829-031038  --path5 14.keymorph9_1bde  --path3 00.icn_grid  --path6 14.icnU8_grid --path2 13.icnU16_grid-20240813-034845 --path7 13.icnU32_grid-20240810-174344 --path7 13.icnU_grid_vxm
+python plot_train_dice.py --path 07.icn_vxm-20240830-083307 --path2 13.icnU_grid --path3 00.icn_grid --path4 07.icn_trm-20240829-031038 --path5 14.keymorph9_1bde --path6 14.icnU8_grid --path7 13.icnU32_grid-20240810-174344 
