@@ -13,9 +13,7 @@ U-GRID employs a Unifying Projection technique to map complex 3D features into a
 - [Contact](#contact)
 
 ## Installation
-sh scripts/icf/00.icnU_grid.sh
 
-Example:
 ```bash
 # Clone the repository
 git clone https://github.com/username/repository.git
@@ -25,3 +23,7 @@ cd repository
 
 # Install dependencies
 pip install -r requirements.txt
+
+## Usage
+sh scripts/icf/00.icnU_grid.sh
+
