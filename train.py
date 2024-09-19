@@ -21,6 +21,9 @@ if __name__ == "__main__":
     elif config.project == "Icn":
         from src.model.archs.icReg import icReg
         model = icReg(config)
+    elif config.project == "Ugrid":
+        from src.model.archs.gridReg import icReg
+        model = icReg(config)
     elif config.project == "ConditionalSeg":
         from src.model.archs.condiSeg import condiSeg
         model = condiSeg(config)

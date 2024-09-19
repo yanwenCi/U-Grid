@@ -15,7 +15,8 @@ project_list = [
     'WeakSup',
     'CBCTUnetSeg',
     'mpmrireg',
-    'denoise'
+    'denoise',
+    'Ugrid'
 ]
 
 def get_project():
